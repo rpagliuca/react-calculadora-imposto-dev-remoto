@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-calculadora-imposto-dev-remoto/static/css/main.39796bfb.chunk.css",
+    "main.js": "/react-calculadora-imposto-dev-remoto/static/js/main.c34057ce.chunk.js",
+    "main.js.map": "/react-calculadora-imposto-dev-remoto/static/js/main.c34057ce.chunk.js.map",
+    "runtime-main.js": "/react-calculadora-imposto-dev-remoto/static/js/runtime-main.b26412fc.js",
+    "runtime-main.js.map": "/react-calculadora-imposto-dev-remoto/static/js/runtime-main.b26412fc.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/react-calculadora-imposto-dev-remoto/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8b2e3422.chunk.js": "/react-calculadora-imposto-dev-remoto/static/js/2.8b2e3422.chunk.js",
+    "static/js/2.8b2e3422.chunk.js.map": "/react-calculadora-imposto-dev-remoto/static/js/2.8b2e3422.chunk.js.map",
+    "static/js/3.6f098346.chunk.js": "/react-calculadora-imposto-dev-remoto/static/js/3.6f098346.chunk.js",
+    "static/js/3.6f098346.chunk.js.map": "/react-calculadora-imposto-dev-remoto/static/js/3.6f098346.chunk.js.map",
+    "index.html": "/react-calculadora-imposto-dev-remoto/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/react-calculadora-imposto-dev-remoto/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.39796bfb.chunk.css.map": "/react-calculadora-imposto-dev-remoto/static/css/main.39796bfb.chunk.css.map",
+    "static/js/2.8b2e3422.chunk.js.LICENSE.txt": "/react-calculadora-imposto-dev-remoto/static/js/2.8b2e3422.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b26412fc.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8b2e3422.chunk.js",
+    "static/css/main.39796bfb.chunk.css",
+    "static/js/main.c34057ce.chunk.js"
+  ]
+}
