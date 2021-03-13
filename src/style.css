@@ -1,0 +1,57 @@
+body {
+    background: #B9D347;
+}
+
+.card {
+    color: white;
+    margin-bottom: 20px;
+    background: #A3265E;
+    /*background: rgba(15, 60, 15, 1.0);*/
+}
+
+.card.card-simulacao {
+    color: white;
+    margin-bottom: 20px;
+    background: #3F6897;
+    background: #00A9A7;
+    background: #2A3F5F;
+}
+
+.list-group-item {
+    background: rgba(255, 255, 255, 0.02);
+}
+
+.container {
+    margin-top: 20px;
+}
+
+button {
+    margin-right: 10px;
+}
+
+.item-label {
+    font-size: 90%;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.item-value {
+    font-size: 100%;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 8px;
+    margin: 4px;
+    margin-left: 20px;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar {
+    color: white;
+}
+
+.navbar a {
+    color: #B9D347;
+}
+
+.message-info {
+    font-size: 90%;
+}
